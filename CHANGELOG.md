@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-22)
+## Unreleased (2026-10-05)
+
+<section class="features">
+
+### Features
+
+-   [`9a6a4a1`](https://github.com/stdlib-js/stdlib/commit/9a6a4a1eab8d79aa9aae1aaab3ef34cacff7d525) - add C implementation for `stats/base/dists/t/quantile` [(#15411)](https://github.com/stdlib-js/stdlib/pull/15411)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`9a6a4a1`](https://github.com/stdlib-js/stdlib/commit/9a6a4a1eab8d79aa9aae1aaab3ef34cacff7d525) - **feat:** add C implementation for `stats/base/dists/t/quantile` [(#15411)](https://github.com/stdlib-js/stdlib/pull/15411) _(by Philipp Burckhardt, Karan Anand)_
 -   [`3371e44`](https://github.com/stdlib-js/stdlib/commit/3371e4463d04c07659080c2a6dcf82898f2b7f56) - **test:** migrate `stats/base/dists/t/quantile` to ULP-based assertions [(#13847)](https://github.com/stdlib-js/stdlib/pull/13847) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
